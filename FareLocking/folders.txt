@@ -1,0 +1,5 @@
+The folder General includes classes that generates the data, keeps the data for the problem instance on hand, keeps the state of the system and samples the demand. These classes are used by all benchmarks.
+
+The folder Approximation includes classes that implement our approximate policy, referred to as AP in Section 8.1 of the paper.
+
+The folder BidPriceLP includes classes that implement the policy from the linear programming approximation, referred to as LP in Section 8.1 of the paper.
